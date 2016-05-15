@@ -1,0 +1,15 @@
+{
+  "name": "observ-meta",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "registry": "jspm",
+  "dependencies" : {
+    "observ": "npm:observ@^0.2.0"
+  }
+}
